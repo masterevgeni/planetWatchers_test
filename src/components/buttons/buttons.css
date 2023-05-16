@@ -1,0 +1,19 @@
+.buttons_hub {
+    position: absolute;
+    top: 1.2%;
+    left: 45%;
+    z-index: 999;
+    width: 210px;
+    /* border: 1px solid red; */
+    box-shadow: 2px 2px 1px #cccccc;
+}
+
+.button{
+    width: 100px;
+    height: 40px;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+    background-color: #ffffff;
+    margin-left: 5px;
+}
